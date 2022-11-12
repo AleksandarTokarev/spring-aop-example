@@ -1,6 +1,7 @@
 package com.tokarev.springexperimenting.controller;
 
 import com.tokarev.springexperimenting.service.TestService;
+import com.tokarev.springexperimenting.service.TestServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

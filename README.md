@@ -1,5 +1,5 @@
 # Spring Aspects
-###TLDR: @within works on class and interface level, @annotation works on method level.
+### TLDR: @within works on class and interface level, @annotation works on method level.
 
 https://stackoverflow.com/questions/10549992/targeting-aspects-based-annotation-on-a-class-with-spring-and-aspectj  
 https://stackoverflow.com/questions/38477278/difference-between-target-and-annotation  
@@ -16,10 +16,9 @@ Java annotations are not inherited by default !!
 https://stackoverflow.com/questions/21409338/inherit-annotations-from-abstract-class  
 Java annotations are not inherited by interface implementations !! - because you can implement multiple interfaces that have same name methods
 https://stackoverflow.com/questions/4745798/why-java-classes-do-not-inherit-annotations-from-implemented-interfaces
-
+Pointcut Designators
+https://www.baeldung.com/spring-aop-pointcut-tutorial
 
 ### Endpoints
-```
 http://localhost:5000/api/v1/test/service
 http://localhost:5000/api/v1/test/interface
-```

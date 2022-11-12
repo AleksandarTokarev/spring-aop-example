@@ -4,7 +4,7 @@ import com.tokarev.springexperimenting.annotation.LogExecutionTime;
 import org.springframework.stereotype.Service;
 
 @Service
-//@LogExecutionTime
+@LogExecutionTime
 public class TestServiceImpl implements TestService {
     @Override
 //    @LogExecutionTime
