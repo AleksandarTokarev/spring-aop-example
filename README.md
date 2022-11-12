@@ -14,10 +14,10 @@ https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#ao
 https://stackoverflow.com/questions/54290855/spring-aop-cant-double-bind-annotation  - probably best example  
 Java annotations are not inherited by default !!  
 https://stackoverflow.com/questions/21409338/inherit-annotations-from-abstract-class  
-Java annotations are not inherited by interface implementations !! - because you can implement multiple interfaces that have same name methods
-https://stackoverflow.com/questions/4745798/why-java-classes-do-not-inherit-annotations-from-implemented-interfaces
-Pointcut Designators
-https://www.baeldung.com/spring-aop-pointcut-tutorial
+Java annotations are not inherited by interface implementations !! - because you can implement multiple interfaces that have same name methods  
+https://stackoverflow.com/questions/4745798/why-java-classes-do-not-inherit-annotations-from-implemented-interfaces  
+Pointcut Designators  
+https://www.baeldung.com/spring-aop-pointcut-tutorial  
 
 ### Endpoints
 http://localhost:5000/api/v1/test/service
